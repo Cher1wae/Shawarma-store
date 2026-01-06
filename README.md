@@ -11,6 +11,8 @@ A simple and interactive JavaScript web app that simulates a shawarma ordering p
 🧠 Demonstrates Promise chaining and async flow
 
 🗂️ Project Structure
+
+```
 Shawarma-order/
 │
 ├── index.html        # Main HTML page
@@ -18,6 +20,7 @@ Shawarma-order/
 ├── script.js         # JavaScript logic (Promises & async flow)
 ├── .gitignore        # Git ignore rules
 └── README.md         # Project documentation
+```
 
 🧠 How It Works
 
